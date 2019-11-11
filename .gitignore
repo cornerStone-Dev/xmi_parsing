@@ -1,0 +1,10 @@
+# ignored files
+gram_xmi.c
+gram_xmi.h
+gram_xmi.out
+lemon
+lemon.c
+lempar.c
+xmiCompiler
+xmi_lex.c
+
